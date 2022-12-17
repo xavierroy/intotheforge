@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-forge/"}
+{"title":"The Forge","dg-publish":true,"permalink":"/locations/the-forge/","dgPassFrontmatter":true}
 ---
 
 
