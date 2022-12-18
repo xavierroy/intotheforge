@@ -14,7 +14,7 @@ This campaign features [[campaigns/Journeys Beyond Dusk/characters/Vuldar Jensen
 - [[campaigns/Journeys Beyond Dusk/sessions/jbd-000\|Session 000 : Worldbuilding & Character Creation]]
 - Session 001 : Visit to Vesper
 - Session 002 : Meeting Mina
-- Session 003: Encountering Freya' Wrath
+- Session 003: Encountering Freyas' Wrath
 
 
 ### Tools for Play
