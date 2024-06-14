@@ -21,11 +21,11 @@ Starforged is a standalone sci-fi follow-up to Shawn Tomkin's free [Ironsworn ta
 > [!info]
 > I'm approaching it as an exercise in building my narrative and storytelling skills. I'll separate the narrative from the mechanical game play but I will try to tie them together so that they makes sense as a play report.
 
-- [[campaigns/Journeys Beyond Dusk/Journeys Beyond Dusk\|Journeys Beyond Dusk]]
-- Untitled Merrick Frost
-- The Condor Chronicles
-
-- [[campaigns/Journeys Beyond Dusk/Journeys Beyond Dusk\|Journeys Beyond Dusk]]
+| Campaign                                                                            | Character     |
+| ----------------------------------------------------------------------------------- | ------------- |
+| [[campaigns/Journeys Beyond Dusk/Journeys Beyond Dusk\|Journeys Beyond Dusk]]    | Vuldar Jensen |
+| [[campaigns/The Condor Chronicles/The Condor Chronicles\|The Condor Chronicles]] | Sage Decker   |
+| [[campaigns/Talon's Fall/Talon's Fall\|Talon's Fall]]                            | Saren Adler   |
 
 { .block-language-dataview}
 
