@@ -1,5 +1,5 @@
 ---
-{"banner":"![starforged-square.png](/img/user/images/starforged-square.png)","dg-home":true,"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/index/","title":"Welcome traveller to the Forge","tags":["gardenEntry"]}
 ---
 
 
@@ -8,6 +8,7 @@
 > “The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.” - Carl Sagan, *Cosmos*
 
 # Welcome to The Forge
+
 
 In [Ironsworn:Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged), you are a spaceborne hero sworn to undertake perilous quests. You will explore uncharted space, unravel the secrets of a mysterious galaxy, and build bonds with those you meet on your travels. Most importantly, you will swear iron vows and see them fulfilled—no matter the cost.
 
@@ -22,6 +23,9 @@ Starforged is a standalone sci-fi follow-up to Shawn Tomkin's free [Ironsworn ta
 > I'm approaching it as an exercise in building my narrative and storytelling skills. I'll separate the narrative from the mechanical game play but I will try to tie them together so that they makes sense as a play report.
 
 - [[index\|Journeys Beyond Dusk]] (ongoing campaign)
+
+
+{ .block-language-dataview}
 
 
 ---
